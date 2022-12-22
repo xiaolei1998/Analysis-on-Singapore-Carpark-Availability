@@ -16,4 +16,4 @@ In Q3, all the carparks are clustered and  and separate models are built for eac
 
 This is our team's final report for course EE4211 at NUS for Sem1, AY2022/23. I worked as a team leader, together with [JingkeiHau](https://github.com/JingkeiHau), [xiaolei1998](https://github.com/xiaolei1998) and [WhianGaulin](https://github.com/WhianGaulin). 
 
-**For communication and study use only.**
+**For communication and study use only.** 
